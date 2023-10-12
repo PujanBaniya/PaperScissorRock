@@ -16,7 +16,7 @@ public class random {
             {
                 System.out.println("\nComputer wins");
             }
-            if(b==0)
+           else if(b==0)
             {
                 System.out.println("\nDraw");
             }
@@ -32,7 +32,7 @@ public class random {
             {
                 System.out.println("\nComputer wins");
             }
-            if(b==1)
+           else if(b==1)
             {
                 System.out.println("\nDraw");
             }
@@ -47,7 +47,7 @@ public class random {
             {
                 System.out.println("\nComputer wins");
             }
-            if(b==2)
+           else if(b==2)
             {
                 System.out.println("\nDraw");
             }
