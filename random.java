@@ -40,7 +40,7 @@ public class random {
                 System.out.println("\nYou win");
             }
         }
-    else
+    else if(a==2)
         {
             System.out.println("Computer choice is Scissor");
             if(b==1)
@@ -57,5 +57,9 @@ public class random {
         }
         
     }
+         else
+    {
+        System.out.println("Invalid Entry");
         
+    }
 }
